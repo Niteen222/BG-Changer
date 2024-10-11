@@ -1,0 +1,80 @@
+.bg-change{
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.red{
+  background-color: red;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.blue{
+  background-color:blue;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.green{
+  background-color:green;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.yellow{
+  background-color:yellow;
+  color: #000;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.black{
+  background-color:black;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.gray{
+  background-color:gray;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.pink{
+  background-color:indigo;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.purple{
+  background-color:purple;
+  color: #fff;
+  border: none;
+  font-size: x-large;
+  padding:2px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+}
